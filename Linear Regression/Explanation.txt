@@ -1,0 +1,2 @@
+Here I have implemented a linear regression program using gradient descent (both batch- and stoch-version implemented). I've also implemented a few different types of 
+linear classifiers such as the perceptron algorithm and logistic regression. 

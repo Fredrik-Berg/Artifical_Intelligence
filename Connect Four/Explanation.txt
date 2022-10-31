@@ -1,0 +1,1 @@
+This is a program that should always be able to beat a "normal/human" player in connect four. The program is built around the Minimax decision rule. 
