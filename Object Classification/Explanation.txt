@@ -1,0 +1,1 @@
+Implementation of program capable of correctly classifying an object, while doing the course 376.054 at TU Wien. The skeleton to the code is written by Mattias Hirschmanner.

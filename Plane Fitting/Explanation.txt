@@ -1,0 +1,1 @@
+Implementation of the RANSAC-algorithm for plane-fitting, while doing the course 376.054 at TU Wien. The skeleton to the code is written by Mattias Hirschmanner.
